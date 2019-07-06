@@ -113,7 +113,7 @@ export default {
     self.getApiData();
     setInterval(function () {
       self.getApiData();
-      //self.saveApiData();
+      self.saveApiData();
     }, 10000)
   },
   methods: {
