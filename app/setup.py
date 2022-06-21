@@ -4,7 +4,7 @@ install_requires = [
     'Flask == 1.1.0',
     'flask_sqlalchemy == 2.3.2',
     'requests==2.13.0',
-    'numpy==1.14.5',
+    'numpy==1.22.0',
     'pandas==0.23.0'
 ]
 
